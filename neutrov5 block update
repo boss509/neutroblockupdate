@@ -1,0 +1,40 @@
+{
+  "name": "projects/neutro-iptv-player-main/databases/(default)/documents/main_app_info/init_fetch",
+  "fields": {
+    "notification_code": {
+      "integerValue": "1"
+    },
+    "update_link": {
+      "stringValue": "https://neutrodownloads.nyc3.cdn.digitaloceanspaces.com/NeutroMain/Player/Neutro%20IPTV%20Player%20v5.0.apk"
+    },
+    "version_code": {
+      "integerValue": "50"
+    },
+    "settings": {
+      "mapValue": {
+        "fields": {
+          "default_player": {
+            "stringValue": "exo"
+          }
+        }
+      }
+    },
+    "force_update": {
+      "booleanValue": false
+    },
+    "update_message": {
+      "stringValue": "New Update Available (in case of failure, download using https://d.neutroiptvplayer.com/apk on browser/downloader)"
+    },
+    "notification_description": {
+      "stringValue": ""
+    },
+    "show_notification": {
+      "booleanValue": false
+    },
+    "notification_title": {
+      "stringValue": ""
+    }
+  },
+  "createTime": "2021-07-10T06:03:10.318187Z",
+  "updateTime": "2022-05-20T12:21:41.196481Z"
+}
