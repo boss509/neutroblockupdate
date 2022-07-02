@@ -20,7 +20,7 @@
       }
     },
     "force_update": {
-      "booleanValue": false
+      "booleanValue": true
     },
     "update_message": {
       "stringValue": "New Update Available (in case of failure, download using https://d.neutroiptvplayer.com/apk on browser/downloader)"
@@ -29,10 +29,10 @@
       "stringValue": ""
     },
     "show_notification": {
-      "booleanValue": false
+      "booleanValue": true
     },
     "notification_title": {
-      "stringValue": ""
+      "stringValue": "boss bagay kila"
     }
   },
   "createTime": "2021-07-10T06:03:10.318187Z",
