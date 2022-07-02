@@ -5,10 +5,10 @@
       "integerValue": "1"
     },
     "update_link": {
-      "stringValue": "https://neutrodownloads.nyc3.cdn.digitaloceanspaces.com/NeutroMain/Player/Neutro%20IPTV%20Player%20v6.1.apk"
+      "stringValue": ""
     },
     "version_code": {
-      "integerValue": "100"
+      "integerValue": "50"
     },
     "settings": {
       "mapValue": {
@@ -20,19 +20,19 @@
       }
     },
     "force_update": {
-      "booleanValue": true
+      "booleanValue": false
     },
     "update_message": {
-      "stringValue": "New Update Available (in case of failure, download using https://d.neutroiptvplayer.com/apk on browser/downloader)"
+      "stringValue": "New Update Available (in case of failure, download k on browser/downloader)"
     },
     "notification_description": {
       "stringValue": ""
     },
     "show_notification": {
-      "booleanValue": true
+      "booleanValue": false
     },
     "notification_title": {
-      "stringValue": "boss bagay kila"
+      "stringValue": ""
     }
   },
   "createTime": "2021-07-10T06:03:10.318187Z",
