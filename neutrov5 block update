@@ -2,13 +2,13 @@
   "name": "projects/neutro-iptv-player-main/databases/(default)/documents/main_app_info/init_fetch",
   "fields": {
     "notification_code": {
-      "integerValue": "1"
+      "integerValue": ""
     },
     "update_link": {
       "stringValue": ""
     },
     "version_code": {
-      "integerValue": "50"
+      "integerValue": ""
     },
     "settings": {
       "mapValue": {
@@ -23,7 +23,7 @@
       "booleanValue": false
     },
     "update_message": {
-      "stringValue": "New Update Available (in case of failure, download k on browser/downloader)"
+      "stringValue": ""
     },
     "notification_description": {
       "stringValue": ""
